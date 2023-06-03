@@ -12,7 +12,7 @@ body {
 /* TIMELINE*/
 
 .timeline-with-icons {
-    border-left: 50px solid hsl(0, 8%, 39%);
+    border-left: 2px solid hsl(0, 8%, 39%);
     position: relative;
     list-style: none;
   }
